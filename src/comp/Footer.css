@@ -1,0 +1,35 @@
+.myfooter footer{
+  background-color: #1b1b1b;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 18px;
+height: 84px;
+}
+
+.Light .myfooter footer{
+  background-color: teal;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 18px;
+}
+.Dark .myfooter footer{
+  background-color: #1b1b1b;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 18px;
+}
+ .myfooter .ahmed{
+  background-color: teal;
+}
+
+.myfooter .fa-heart{
+  font-size: 22px !important;
+  margin-left: 5px;
+}
+
+
+
+
+ 
+
+
